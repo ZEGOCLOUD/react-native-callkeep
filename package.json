@@ -1,5 +1,5 @@
 {
-  "name": "react-native-callkeep",
+  "name": "@zegocloud/react-native-callkeep",
   "version": "4.3.9",
   "description": "iOS 10 CallKit and Android ConnectionService Framework For React Native",
   "main": "index.js",
